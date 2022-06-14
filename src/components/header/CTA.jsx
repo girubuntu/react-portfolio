@@ -1,5 +1,6 @@
 import React from 'react'
-import CV from '../../assets/girubuntu_samuel_cv.pdf'
+import CV from "../../assets/Girubuntu_cv.pdf";
+
 import './header.css'
 
 const CTA = () => {
