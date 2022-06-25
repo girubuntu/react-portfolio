@@ -2,7 +2,7 @@ import React from 'react'
 import './portfolio.css'
 import invImage from '../../assets/inventory.jpg'
 import triWeb from '../../assets/website.jpg'
-import irebero from '../../assets/rebero.JPG'
+import movie from '../../assets/movie.jpg'
 import irihano from '../../assets/irihano.JPG'
 
 const data = [
@@ -15,10 +15,10 @@ const data = [
   },
   {
     id: 2,
-    image: irebero, 
+    image: movie, 
     title: 'Contribution on Irebero',
-    github: '#',
-    demo: '#'
+    github: 'https://github.com/girubuntu/movie-library',
+    demo: 'https://movie-library-lake.vercel.app/'
   },
   {
     id: 3,
@@ -53,7 +53,7 @@ const Portfolio = () => {
                   <h3>{title}</h3>
                   <div className="portfolio_item-cta">
                     <a href={github} className='btn' target='_blank'>GitHub</a>
-                    <a href={demo} className='btn btn-primary'>Live Demo</a>
+                    <a href={demo} className='btn btn-primary' target='_blank'>Live Demo</a>
                   </div>
               </article>
             )
