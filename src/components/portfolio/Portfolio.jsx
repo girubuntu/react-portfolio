@@ -4,19 +4,20 @@ import invImage from '../../assets/inventory.jpg'
 import triWeb from '../../assets/website.jpg'
 import movie from '../../assets/movie.jpg'
 import irihano from '../../assets/irihano.JPG'
+import irebero from '../../assets/rebero.JPG'
 
 const data = [
   {
     id: 1,
-    image: invImage, 
-    title: 'Trinity Inventory System',
-    github: 'https://github.com/girubuntu/trinity-inventory-react',
-    demo: '#'
+    image: irebero, 
+    title: 'rebero',
+    github: '#',
+    demo: 'https://www.irebero.rw/'
   },
   {
     id: 2,
     image: movie, 
-    title: 'Contribution on Irebero',
+    title: 'Movie library',
     github: 'https://github.com/girubuntu/movie-library',
     demo: 'https://movie-library-lake.vercel.app/'
   },
@@ -25,14 +26,14 @@ const data = [
     image: triWeb, 
     title: 'Trinity Website',
     github: 'https://github.com/girubuntu/trinitywebsite',
-    demo: 'https://candid-semifreddo-1b9bb3.netlify.app/'
+    demo: 'https://www.trinityinternationacademy.rw'
   },
   {
     id: 4,
     image: irihano, 
-    title: 'Irihano',
+    title: 'irihano',
     github: 'https://github.com/girubuntu/Lost-item',
-    demo: 'http://irihanolostandfound.herokuapp.com/'
+    demo: 'https://irihano.rw/'
   },
 ];
 
