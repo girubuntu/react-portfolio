@@ -10,7 +10,7 @@ const data = [
   {
     id: 1,
     image: irebero, 
-    title: 'rebero',
+    title: 'Rebero',
     github: '#',
     demo: 'https://www.irebero.rw/'
   },
@@ -31,7 +31,7 @@ const data = [
   {
     id: 4,
     image: irihano, 
-    title: 'irihano',
+    title: 'Irihano',
     github: 'https://github.com/girubuntu/Lost-item',
     demo: 'https://irihano.rw/'
   },
