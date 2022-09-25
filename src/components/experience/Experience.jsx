@@ -6,7 +6,7 @@ const Experience = () => {
   return (
     <section id='experience'>
       <h5>What SKills I Have</h5>
-      <h2>My Experience</h2>
+      <h1>My Experience</h1>
 
       <div className="container experience_container">
         <div className="experience_frontend">
@@ -45,6 +45,20 @@ const Experience = () => {
               <div>
                 <h4>ReactJs</h4>
                 <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
+             <article className='experience_details'>
+              <BsFillPatchCheckFill className='experience_details-icons'/>
+              <div>
+                <h4>WordPress</h4>
+                <small className='text-light'>Experienced</small>
+              </div>
+            </article> 
+             <article className='experience_details'>
+              <BsFillPatchCheckFill className='experience_details-icons'/>
+              <div>
+                <h4>Duda</h4>
+                <small className='text-light'>Experienced</small>
               </div>
             </article> 
           </div>          

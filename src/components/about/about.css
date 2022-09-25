@@ -1,3 +1,7 @@
+#about h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
 .about-container {
     display: grid;
     grid-template-columns: 35% 50%;
@@ -64,6 +68,9 @@
 /* phones media queries */
 
 @media screen and (max-width: 600px){
+    #about h1 {
+    margin-bottom: 15px;
+}
 .about_me {
     width: 65%;
     /* margin: 0 auto 3rem; */

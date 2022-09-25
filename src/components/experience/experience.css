@@ -1,3 +1,7 @@
+#experience h1 {
+    text-align: center;
+    margin-bottom: 15px;
+}
 .experience_container {
     display: grid;
     grid-template-columns: 1fr 1fr;

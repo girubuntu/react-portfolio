@@ -1,3 +1,7 @@
+#contact h1 {
+    text-align: center;
+    margin-bottom: 15px;
+}
 .contact_container{
     width: 50%;
     display: grid;

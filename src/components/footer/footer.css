@@ -13,6 +13,7 @@ footer a {
     font-weight: 500;
     margin-bottom: 2rem;
     display: inline-block;
+    color: #ffffff;
 }
 .permalinks {
     display: flex;

@@ -1,3 +1,7 @@
+#portfolio h1 {
+    text-align: center;
+    margin-bottom: 15px;
+}
 .portfolio_container {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
