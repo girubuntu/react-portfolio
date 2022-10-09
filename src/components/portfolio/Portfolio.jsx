@@ -5,6 +5,7 @@ import triWeb from '../../assets/website.jpg'
 import movie from '../../assets/movie.jpg'
 import irihano from '../../assets/irihano.JPG'
 import irebero from '../../assets/rebero.JPG'
+import cmc from '../../assets/cmc.JPG'
 
 const data = [
   {
@@ -23,10 +24,9 @@ const data = [
   },
   {
     id: 3,
-    image: triWeb, 
-    title: 'Trinity Website',
-    github: 'https://github.com/girubuntu/trinitywebsite',
-    demo: 'https://www.trinityinternationacademy.rw'
+    image: cmc, 
+    title: 'Charity Medical Clinic',
+    demo: 'https://www.charitymedicalclinic.com'
   },
   {
     id: 4,
