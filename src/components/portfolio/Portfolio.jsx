@@ -6,6 +6,7 @@ import movie from '../../assets/movie.jpg'
 import irihano from '../../assets/irihano.JPG'
 import irebero from '../../assets/rebero.JPG'
 import cmc from '../../assets/cmc.JPG'
+import johnsonthebaker from '../../assets/johnsonthebaker.JPG'
 
 const data = [
   {
@@ -30,10 +31,9 @@ const data = [
   },
   {
     id: 4,
-    image: irihano, 
-    title: 'Irihano',
-    github: 'https://github.com/girubuntu/Lost-item',
-    demo: 'https://irihano.rw/'
+    image: johnsonthebaker, 
+    title: 'Johnson the Baker',
+    demo: 'https://www.johnsonthebaker.rw/'
   },
 ];
 
