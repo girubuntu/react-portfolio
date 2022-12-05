@@ -1,5 +1,5 @@
 import React from 'react'
-import CV from "../../assets/Girubuntu_cv.pdf";
+import CV from "../../assets/Girubuntu_cv(1).pdf";
 
 import './header.css'
 
