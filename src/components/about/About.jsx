@@ -12,11 +12,6 @@ const About = () => {
       <h1>About Me</h1>
 
       <div className="container about-container">
-        <div className="about_me">
-          <div className="about_me-image">
-            <img src={ME} alt="About Image" />
-          </div>
-        </div>
         <div className="about_content">
           <div className="about_cards">
             <article className='about_card'>
